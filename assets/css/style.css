@@ -188,7 +188,7 @@ khắc phục lỗi do sử dụng float: left;
     margin-top: 46px;
     padding-top: 50%;
     /* background: url("/assets/img/slider/chicago.jpg") top center / cover no-repeat; */
-    background-image: url("/assets/img/slider/chicago.jpg");
+    background-image: url("../img/slider/chicago.jpg");
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
